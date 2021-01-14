@@ -1,2 +1,4 @@
 # Ejercicios_Python_Cisco
-Ejercicios básicos de Python
+
+En este repositorio podra encontrar una serie de ejercicios básicos de Python
+
